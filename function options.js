@@ -1,5 +1,3 @@
-hello 
-
 
 function getName(a)
 {
